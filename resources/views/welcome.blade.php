@@ -114,13 +114,14 @@
         </div>
 
 
-    <div class="row d-flex justify-content-center title-centered mb-4 d-none">
+    <div class="row justify-content-center title-centered mb-4 d-none">
+{{--    <div class="row d-flex justify-content-center title-centered mb-4 d-none">--}}
         <div class="col-md-12">
             <h1> Our Games </h1>
         </div>
 
     </div>
-    <div class="row">
+    <div class="row d-none">
         <div class="col-md-12">
             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">

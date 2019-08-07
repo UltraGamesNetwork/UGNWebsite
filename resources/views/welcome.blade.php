@@ -21,10 +21,10 @@
                 class="navbar-toggler-icon"></span></button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-            <li class="nav-item active"><a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            <li class="nav-item active"><a class="nav-link" href="http://unlimitedgamesnetwork.com">Home <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item"><a class="nav-link disabled" href="#" disabled>Forum</a></li>
-            <li class="nav-item"><a class="nav-link" href="http://store.unlimitedgamesnetwork.com">Store</a></li>
+            <li class="nav-item"><a class="nav-link" href="http://store.unlimitedgamesnetwork.com" target="_blank">Store</a></li>
         </ul>
     </div>
 </nav>
@@ -56,18 +56,18 @@
                     <div class="col">
 
                         <center>
-                            <a href="https://discord.gg/vPp8pWa">
+                            <a href="https://discord.gg/vPp8pWa" target="_blank">
                                 <i class="fab fa-discord"
                                    style="font-size:100px; color:#9BAAE3; padding:20px;
     border-radius: 50%; background: transparent;  text-align: center;
     line-height: 100px; width: 100px; height: 100px;
     vertical-align: middle;"></i>
                             </a>
-                            <a href="https://www.youtube.com/channel/UCcP8tgcuBi_sfJA-QIs4DcA/featured?view_as=subscriber">
+                            <a href="https://www.youtube.com/channel/UCcP8tgcuBi_sfJA-QIs4DcA/featured?view_as=subscriber" target="_blank">
                                 <i class="fab fa-youtube"
                                    style="font-size:100px; color:#FF0000; padding:20px;   text-align: center;vertical-align: middle;"></i>
                             </a>
-                            <a href="https://twitter.com/network_UGN">
+                            <a href="https://twitter.com/network_UGN" target="_blank">
                                 <i class="fab fa-twitter"
                                    style="font-size:100px; color:#1A91DA; padding:20px;
     border-radius: 50%; background: transparent; ;  text-align: center;
@@ -301,7 +301,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <p>Copyright © UnlimitedGamesNetwork. All rights reserved. Build with love by Sander van Hoogdalem</p>
+                        <p>Copyright © UnlimitedGamesNetwork 2019. All rights reserved. Build with love by Sander van Hoogdalem</p>
                     </div>
                 </div>
             </div>

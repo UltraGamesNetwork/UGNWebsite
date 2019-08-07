@@ -56,7 +56,7 @@
                     <div class="col">
 
                         <center>
-                            <a href="https://discord.gg/vPp8pWa" target="_blank">
+                            <a href="https://invite.gg/ugn" target="_blank">
                                 <i class="fab fa-discord"
                                    style="font-size:100px; color:#9BAAE3; padding:20px;
     border-radius: 50%; background: transparent;  text-align: center;

@@ -14,7 +14,7 @@
     <title>UltraGamesNetwork</title>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark" style="    box-shadow: 0px 2px 20px black;">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" style="    box-shadow: 0px 2px 20px black;">
     <a class="navbar-brand" href="#">UGN</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span
@@ -28,7 +28,7 @@
         </ul>
     </div>
 </nav>
-<div class="container-fluid">
+<div class="container-fluid mt-2">
     <div class="row mb-4" style="background: rgba(0, 0, 0, 0.56); min-height: 150px; ">
         <div class="col-md-12 mx-auto">
             <div class="jumbotron container"
@@ -114,7 +114,7 @@
         </div>
 
 
-    <div class="row d-flex justify-content-center title-centered mb-4">
+    <div class="row d-flex justify-content-center title-centered mb-4 d-none">
         <div class="col-md-12">
             <h1> Our Games </h1>
         </div>

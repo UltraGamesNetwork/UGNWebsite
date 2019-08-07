@@ -107,7 +107,7 @@ background: url("../storage/<?=$postimage;?>") no-repeat;
                 <div class="card-body">
                     <div class="entry-content" style="color: #8c8d9e">
                         <div class="mt-4 mb-4">
-                            <strong><h1 style="color: black; font-weight: 700">NewsTitle</h1></strong>
+                            <strong><h1 style="color: black; font-weight: 700">{{$post->title}}</h1></strong>
                             <p style="color: black">Author: Admin</p>
                         </div>
                         {!!$post->body !!}
